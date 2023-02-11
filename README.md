@@ -27,5 +27,5 @@
   </ul>
   </p>
 
-    <h4> ✅ 3º Projeto: <strong>Projeto final - Em Andamento - </strong><br></h4>
-      <p>Construa uma API que registre e manipule eventos que acontecem na cidade, como shows, peças de teatro, eventos especiais em restaurantes, entre outros. </p>
+   <h4> ✅ 3º Projeto: <strong>Projeto final - Em Andamento - </strong></h4>
+   <p>Construa uma API que registre e manipule eventos que acontecem na cidade, como shows, peças de teatro, eventos especiais em restaurantes, entre outros. </p>
