@@ -1,4 +1,4 @@
-# Nos projetos a seguir, desenvolvemos conceitos a cerca de construção de um api, documentada e com persistência no banco de dados;
+<h4>💻 Nos projetos a seguir, desenvolvemos conceitos a cerca de construção de um api, documentação via swagger e com persistência no banco de dados </h4>
 
 <h3>Aulas ministradas pela profª Amanda, durante o curso de formação Backend em C# - Ada </h3> 
 
@@ -26,3 +26,6 @@
   ◽ DTO.
   </ul>
   </p>
+
+    <h4> ✅ 3º Projeto: <strong>Projeto final - Em Andamento - </strong><br></h4>
+      <p>Construa uma API que registre e manipule eventos que acontecem na cidade, como shows, peças de teatro, eventos especiais em restaurantes, entre outros. </p>
